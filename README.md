@@ -2,8 +2,6 @@
 
 **A sleek Python GUI application to download YouTube videos and audio effortlessly!**
 
-![vXtzDownloader Screenshot](assets/screenshot.png)  <!-- Add your screenshot here -->
-
 ---
 
 ## Features
@@ -20,8 +18,5 @@
 
 ## Installation
 
-1. Clone the repo:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+- Download the git
+- Run bat! (You can check out the code lol no malware or spyware all legit i like to code for fun enjoy!!)
